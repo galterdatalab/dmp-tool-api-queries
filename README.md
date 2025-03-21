@@ -15,8 +15,6 @@ See the DMP Tool API documentation on this [California Digital Libraries / UC3 G
 ### Retrieve One Plan
 `curl -v https://dmptool.org/api/v2/plans/[DMP_ID] -H "Accept: application/json" -H "Authorization: Bearer _abcdefg-1234567_"`
 
-`curl -v https://dmptool.org/api/v2/plans/[DMP_ID] -H "Accept: application/json" -H "Authorization: Bearer _abcdefg-1234567_"`
-
 ### Retrieve a List of Templates
 
 `curl -v https://dmptool.org/api/v2/templates -H "Accept: application/json" -H "Authorization: Bearer _abcdefg-1234567_"`
